@@ -58,5 +58,5 @@ Web-based sports e-commerce application developed with HTML, CSS, and JavaScript
 
 ## Contact
 
-- GitHub: https://github.com/c4mox
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/camilo-artola-lagemann-98461621a/)
+- [GitHub](https://github.com/c4mox)
+- [LinkedIn](https://www.linkedin.com/in/camilo-artola-lagemann-98461621a/)

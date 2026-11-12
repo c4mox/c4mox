@@ -52,7 +52,6 @@ Web-based sports e-commerce application developed with HTML, CSS, and JavaScript
 - Backend development
 - ASP.NET Core
 - Cloud deployment
-- Git & GitHub
 - Software architecture
 - Databases and SQL
 
